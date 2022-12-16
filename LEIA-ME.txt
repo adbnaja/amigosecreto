@@ -1,0 +1,10 @@
+Desenvolvido por Adriano
+
+Esse sistema funciona como um jogo amigo secreto/oculto
+
+Apenas as noções, você pode implementa-lo facilmente com consulta para banco de dados para o seu site.
+
+Se baseia em sessão para transmitir as variaveis e a função array_rand que pega randomicamente um registro
+da array.
+
+Lembre-se, um jogo de amigo secreto tem que ter um numero par de pessoas para jogar. 
